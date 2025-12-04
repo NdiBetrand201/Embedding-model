@@ -1,0 +1,8 @@
+{
+    "texts": [
+        "First document about machine learning",
+        "Second document about artificial intelligence",
+        "Third document about natural language processing"
+    ],
+    "normalize": true
+}
