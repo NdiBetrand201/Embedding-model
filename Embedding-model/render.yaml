@@ -1,0 +1,8 @@
+# Render Deployment Configuration
+# This file tells Render how to build and run your service
+
+# Build command (optional, Render auto-detects Dockerfile)
+# build: docker build -t embedding-service .
+
+# Start command (optional, uses Dockerfile CMD by default)
+# start: uvicorn main:app --host 0.0.0.0 --port $PORT
